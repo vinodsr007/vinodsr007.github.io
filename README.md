@@ -1,3 +1,1 @@
-'''
-kubectl get pods
-'''
+:purple_heart:
